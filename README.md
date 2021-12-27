@@ -15,3 +15,4 @@ when you search in internet, you can find the information about the NTGraph ocx 
 
 
 
+![img1](https://user-images.githubusercontent.com/28477132/147460662-e27800a1-ce9b-41a8-aed0-2b54920c221e.png)
