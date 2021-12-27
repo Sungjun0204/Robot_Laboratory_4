@@ -7,5 +7,8 @@ so you don't need to care what this name means. But if you can understand the Ko
 
 Anyways, ATMega128 codes can be uploaded here, I uploaded MFC codes in google Drive because of its volume
 Here's my Google Drive link to download the MFC codes about this project
->> https://drive.google.com/drive/folders/1S7UmkEbKOYdIV8_Np2Kn4c-ORkYgIDFV?usp=sharing
+→ https://drive.google.com/drive/folders/1S7UmkEbKOYdIV8_Np2Kn4c-ORkYgIDFV?usp=sharing
 
+when you open the MFC Codes folder, you can see folder [RobotExp_4]. This folder is main file
+This MFC Codes contain the ODE(Open Dynamics Engine), NTGraph and MFC UI codes. If you want to run the MFC codes, you should to setup the ocx program about NTGraph in your computer first.
+when you search in internet, you can find the information about the NTGraph ocx septup. So I omit the comment how to setup the NTGraph ocx.
