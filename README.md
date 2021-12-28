@@ -18,3 +18,5 @@ when you search in internet, you can find the information about the NTGraph ocx 
 ![img1](https://user-images.githubusercontent.com/28477132/147460662-e27800a1-ce9b-41a8-aed0-2b54920c221e.png)
 
 ![img5](https://user-images.githubusercontent.com/28477132/147486179-b592fbc3-9bef-45db-9a2f-3c9748787d34.gif)
+
+$c_{2}=\frac{x^{2}+y^{2}-\left(l_{1}^{2}+l_{2}^{2}\right)}{2 l_{1} l_{2}}, s_{2}=\pm \sqrt{1-c_{2}^{2}}$
